@@ -1,0 +1,538 @@
+{
+  "data":{
+      "poiTotalNum":0,
+      "poiHasNextPage":true,
+      "nextStartIndex":1,
+      "shopList":[
+          {
+              "mtWmPoiId":"1025862738693045",
+              "shopName":"食字路口饮品汉堡烤冷面店",
+              "wmPoiScore":49,
+              "monthSalesTip":"月售500+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/0ecbb7717697ea16444ec0934c2c7b24260096.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"30分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥15",
+              "shippingFeeTip":"配送 ¥15",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥15",
+              "discounts2":[
+                  {
+                      "info":"满减;满减;满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  },
+                  {
+                      "info":"折扣商品.折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  },
+                  {
+                      "info":"领元券;领元券;领元券",
+                      "iconUrl":"http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+                      "promotionType":2,
+                      "activityId":103
+                  },
+                  {
+                      "info":"实际支付元返元商家代金券",
+                      "iconUrl":"http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                      "promotionType":2,
+                      "activityId":100
+                  }
+              ],
+              "address":"龙善街与宇和路交叉口山野人家隔壁",
+              "shipping_time":"09:59-23:59"
+          },
+          {
+              "mtWmPoiId":"990506567882608",
+              "shopName":"鲜果园",
+              "wmPoiScore":42,
+              "monthSalesTip":"月售",
+              "picUrl":"http://p1.meituan.net/waimaipoi/04e310d3735556cfc914f12689f6b4c836864.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":0,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"",
+              "discounts2":[
+                  {
+                      "info":"满减;满减;满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处西贾小区南门04号",
+              "shipping_time":"08:31-22:29"
+          },
+          {
+              "mtWmPoiId":"991064913656237",
+              "shopName":"恋茶派对",
+              "wmPoiScore":41,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/waimaipoi/21a2564001d595f5cd290ac9052d2574174080.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"折扣商品折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"郑州经济技术开发区前程办事处美景美地麟州2号楼119号",
+              "shipping_time":"09:30-22:20"
+          },
+          {
+              "mtWmPoiId":"931936098844757",
+              "shopName":"韦亮记黄焖鸡米饭",
+              "wmPoiScore":46,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/3e16b80acff8069619477420d195b4dc36864.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济技术开发区九龙办事处西贾村宇通和谐家园S6商铺和谐美食15号",
+              "shipping_time":"10:35-23:45"
+          },
+          {
+              "mtWmPoiId":"1096364626864123",
+              "shopName":"正新鸡排（九龙宇通和谐家园店）",
+              "wmPoiScore":46,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/f9e8b2e546623330735b5cc6e00afef127424.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  },
+                  {
+                      "info":"本店支持开发票，开票金额元起",
+                      "iconUrl":"http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                      "promotionType":2,
+                      "activityId":-2
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处西贾村宇通和谐家园六号院s6101商铺",
+              "shipping_time":"10:00-21:30"
+          },
+          {
+              "mtWmPoiId":"933568186439889",
+              "shopName":"傻子张大盘鸡（和谐店）",
+              "wmPoiScore":46,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/9052fdc6cbe35bdd7e498fb473210fad38912.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济技术开发区九龙办事处西贾村宇通和谐家园S6商铺和谐美食14号",
+              "shipping_time":"10:30-23:59"
+          },
+          {
+              "mtWmPoiId":"857899452630799",
+              "shopName":"爱转角饮品鸡排（西贾店）",
+              "wmPoiScore":45,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/eaca63516214d69e713bb9dbdc09818176043.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  },
+                  {
+                      "info":"折扣商品折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"九龙办事处西贾村宇和路与宇龙街交叉口(东贾安置房)",
+              "shipping_time":"10:08-23:59"
+          },
+          {
+              "mtWmPoiId":"910190679466607",
+              "shopName":"娿峰私房面馆",
+              "wmPoiScore":48,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/waimaipoi/8f94e60705ec455f49cb554d6a5f5922245760.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"",
+              "discounts2":[
+                  {
+                      "info":"满减;满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处和谐家园美食广场7号档口（丹尼斯全日鲜二楼）",
+              "shipping_time":"10:30-22:40"
+          },
+          {
+              "mtWmPoiId":"1113278208029200",
+              "shopName":"豫东斋北京烤鸭",
+              "wmPoiScore":47,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/business/0eb0db08da0928e3b444e7dec1ad2fad67446.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处西贾小区宇和路南20米（东贾安置区渔具西20米）",
+              "shipping_time":"09:00-23:59"
+          },
+          {
+              "mtWmPoiId":"1000767244795240",
+              "shopName":"秦镇米皮.砂锅（美景美地店）",
+              "wmPoiScore":47,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/business/172696335b1c76e54daa692bc274c644151016.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济技术开发区前程办事处物流大道以北前程大道以东136号商铺",
+              "shipping_time":"10:00-21:30"
+          },
+          {
+              "mtWmPoiId":"915460604328078",
+              "shopName":"襄县焖面",
+              "wmPoiScore":48,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/waimaipoi/a12ec8bdd72150e39bdcdd27a4042894105900.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"满减;满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  },
+                  {
+                      "info":"折扣商品折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处和谐家园美食广场2号",
+              "shipping_time":"10:00-23:58"
+          },
+          {
+              "mtWmPoiId":"1073940602574140",
+              "shopName":"76人老烩面",
+              "wmPoiScore":41,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/business/bc17b03d39a096a0c8fc96e59102410f26004.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"美景美地麟州2号楼101",
+              "shipping_time":"10:00-22:30"
+          },
+          {
+              "mtWmPoiId":"1024458284371693",
+              "shopName":"土耳其烤肉饭",
+              "wmPoiScore":47,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/waimaipoi/555cc479262339e81826f8127fd5d649215040.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"折扣商品.折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处西贾村宇通和谐家园S6商铺和谐美食7号",
+              "shipping_time":"10:00-23:59"
+          },
+          {
+              "mtWmPoiId":"850795576707865",
+              "shopName":"金汤爆肚",
+              "wmPoiScore":45,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/82ccaa11bc32aec0ba1df6cf3c072b34107364.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济技术开发区九龙办事处东贾村临时安置区北口（九龙西贾小区南门对面）",
+              "shipping_time":"10:30-21:30"
+          },
+          {
+              "mtWmPoiId":"1050382706959363",
+              "shopName":"沙县小吃（和谐家园店）",
+              "wmPoiScore":45,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/waimaipoi/ece09eb87b294cae6becc200dff3256222528.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济开发区前程办事处龙美街以东凌霜一路宇通和谐家园S-2号楼107室",
+              "shipping_time":"09:00-22:40"
+          },
+          {
+              "mtWmPoiId":"846414710103619",
+              "shopName":"朱哥烤面筋（花甲粉）",
+              "wmPoiScore":48,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/waimaipoi/d6f9686b7feddb5a6211d2f28426390780775.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  },
+                  {
+                      "info":"折扣商品.折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"九龙宇通和谐家园和谐美食城3号铺",
+              "shipping_time":"11:01-16:00,17:00-23:59"
+          },
+          {
+              "mtWmPoiId":"1090304427969131",
+              "shopName":"重庆小面（美景美地店）",
+              "wmPoiScore":47,
+              "monthSalesTip":"月售",
+              "picUrl":"http://p0.meituan.net/waimaipoi/cda955297211087cd91ad819c15d9c7f350208.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济技术开发区前程办事处美景美地麟洲裙房127号商铺",
+              "shipping_time":"10:00-22:00"
+          },
+          {
+              "mtWmPoiId":"1125140907729251",
+              "shopName":"开心小串饼（烧饼炸串）",
+              "wmPoiScore":48,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p0.meituan.net/business/66b47ee5cb55f049e4ebc4f8d4e4730e595688.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"折扣商品折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"郑州经济技术开发区前程办事处前程大道99号裙房商业街3层310号",
+              "shipping_time":"08:30-23:30"
+          },
+          {
+              "mtWmPoiId":"932159437192104",
+              "shopName":"聚源福黄焖鸡米饭",
+              "wmPoiScore":45,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/15e83e29f8b20accf906af3f8eab465f167936.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "address":"郑州经济技术开发区九龙办事处西贾村和谐美食北3号",
+              "shipping_time":"11:00-23:59"
+          },
+          {
+              "mtWmPoiId":"1035212882491985",
+              "shopName":"五谷鱼粉",
+              "wmPoiScore":48,
+              "monthSalesTip":"月售+",
+              "picUrl":"http://p1.meituan.net/waimaipoi/567643235a34c9b06fc39eda4cd618d686354.jpg",
+              "poiTypeIcon":"",
+              "deliveryTimeTip":"分钟",
+              "deliveryType":1,
+              "minPriceTip":"起送 ¥",
+              "shippingFeeTip":"配送 ¥",
+              "origin_shipping_fee_tip":"",
+              "status":1,
+              "statusDesc":"",
+              "distance":".km",
+              "averagePriceTip":"人均 ¥",
+              "discounts2":[
+                  {
+                      "info":"满减;满减",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                      "promotionType":2,
+                      "activityId":2
+                  },
+                  {
+                      "info":"折扣商品.折起",
+                      "iconUrl":"http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                      "promotionType":2,
+                      "activityId":17
+                  }
+              ],
+              "address":"郑州经济技术开发区九龙办事处宇通和谐家园S6号201（美食广场2楼）",
+              "shipping_time":"09:30-23:59"
+          }
+      ],
+      "judasData":{
+          "rankTraceId":"EC054008EE9F6C080FD37AEE1A519725"
+      }
+  },
+  "code":0,
+  "msg":"成功"
+}

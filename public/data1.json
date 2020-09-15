@@ -1,0 +1,138 @@
+{
+    "nav": [{
+        "id": "1",
+        "title": "热卖"
+    }, {
+        "id": "2",
+        "title": "折扣"
+    }, {
+        "id": "3",
+        "title": "特价优惠"
+    }, {
+        "id": "4",
+        "title": "酱油辣椒"
+    }, {
+        "id": "5",
+        "title": "白米饭荷包蛋卤蛋"
+    }, {
+        "id": "6",
+        "title": "香米饭"
+    }, {
+        "id": "7",
+        "title": "鱼片"
+    }, {
+        "id": "8",
+        "title": "薄底披萨"
+    }, {
+        "id": "9",
+        "title": "面/饭"
+    }, {
+        "id": "10",
+        "title": "美味小食"
+    }],
+    "data": [{
+            "title": "阳春特惠",
+            "pid": 1,
+            "items": [{
+                "id": 1,
+                "img": "https://p0.meituan.net/xianfu/28c4911ee32cd1b846ab9bdee943a3a837543.jpg@225w_225h_80Q_0e_1l.webp",
+                "title": "香辣滑鸡",
+                "cont": "鲜美弹滑的凤尾大虾，裹以异域风情的香草调料，金黄酥脆，奇香四溢。,主要原料:香草凤尾虾",
+                "price": 12.88,
+                "oldprice": 17,
+                "sell": 60,
+                "praise": 10,
+                "discount": 7.58
+            }, {
+                "id": 2,
+                "img": "https://p1.meituan.net/xianfu/aa40d7a19fef0df6f242c5a259ac60fc55902.jpg@225w_225h_80Q_0e_1l.webp",
+                "title": "粤式炒饭",
+                "cont": "精选全翅经香料腌制烘烤而成，入口鲜嫩多汁，回味无穷。,主要原料:鸡翅",
+                "price": 12.88,
+                "oldprice": 15,
+                "sell": 42,
+                "praise": 1,
+                "discount": 6.78
+            }, {
+                "id": 3,
+                "img": "https://p1.meituan.net/xianfu/1bc860c7379adfc67de5f05c7635cc1b28917.jpg@225w_225h_80Q_0e_1l.webp",
+                "title": "鼓香鸡块",
+                "cont": "（400ML）酸甜爽口。主要原料：卡曼橘、绿茶。",
+                "price": 12.88,
+                "oldprice": 25,
+                "sell": 7,
+                "praise": 0,
+                "discount": 6.13
+            }, {
+                "id": 4,
+                "img": "https://p0.meituan.net/xianfu/d776776b6d242277ba1d7e5707f5f72055586.jpg@225w_225h_80Q_0e_1l.webp",
+                "title": "鱼香茄子香米饭",
+                "cont": "每日鲜切红心火龙果清香软嫩，七道工艺半熟香韵香乌龙微甜回甘，茶果交融如沁甜季风萦绕舌尖。,主要原料：水，乌龙茶，水果。",
+                "price": 12.88,
+                "oldprice": 26,
+                "sell": 3,
+                "praise": 1,
+                "discount": 5.37
+            }, {
+                "id": 5,
+                "img": "https://p0.meituan.net/xianfu/de165c8f2ebcf9929595527533403cb841845.jpg@225w_225h_80Q_0e_1l.webp",
+                "title": "特惠黄金香酥鸡柳5根",
+                "cont": "优选软嫩鸡柳，根根酥脆，鲜香多汁。主要原料：鸡肉，水，炸鸡用裹浆粉等",
+                "price": 12.88,
+                "oldprice": 21,
+                "sell": 9,
+                "praise": 6,
+                "discount": 4.95
+            }]
+        },
+        {
+            "title": "折扣",
+            "pid": 2,
+            "items": [{
+                    "id": 6,
+                    "img": "https://p0.meituan.net/xianfu/f30a15db19515690cb538ecf7c77499b30989.jpg@225w_225h_80Q_0e_1l.webp",
+                    "title": "特惠意式香浓菜汤",
+                    "cont": "精选培根，与番茄、西兰花、西芹和红腰豆等鲜蔬佐以黄油煨制，用料丰富，营养健康（180ml）。主要原料: 培根、番茄、西兰花、西芹、红腰豆、黄油、水。",
+                    "price": 12.88,
+                    "oldprice": 23,
+                    "sell": 10,
+                    "praise": 0,
+                    "discount": 5.6
+                },
+                {
+                    "id": 7,
+                    "img": "https://p0.meituan.net/xianfu/370e21ec9edb10c6a4ada05e84d5daa552249.jpg@225w_225h_80Q_0e_1l.webp",
+                    "title": "照烧鸡肉炒饭一人食套餐",
+                    "cont": "新照烧鸡肉炒饭A*1+冰柠檬红茶A*1",
+                    "price": 29.9,
+                    "oldprice": 49,
+                    "sell": 38,
+                    "praise": 8,
+                    "discount": 6.1
+                },
+                {
+                    "id": 8,
+                    "img": "https://p0.meituan.net/xianfu/28c4911ee32cd1b846ab9bdee943a3a837543.jpg@225w_225h_80Q_0e_1l.webp",
+                    "title": "意式肉酱面一人食A套餐",
+                    "cont": "意式肉酱面A*1+冰柠檬红茶A*1",
+                    "price": 29.9,
+                    "oldprice": 54,
+                    "sell": 40,
+                    "praise": 6,
+                    "discount": 5.54
+                },
+                {
+                    "id": 9,
+                    "img": "https://p1.meituan.net/xianfu/9729deceeffd9d13bf40d3292cc2fe0755221.jpg@225w_225h_80Q_0e_1l.webp",
+                    "title": "夏威夷比萨一人食套餐",
+                    "cont": "黄金夏威夷比萨A*1+酥炸鱿鱼[小份]A*1+冰柠檬红茶A*1",
+                    "price": 39.9,
+                    "oldprice": 69,
+                    "sell": 22,
+                    "praise": 0,
+                    "discount": 5.78
+                }
+            ]
+        }
+    ]
+}
