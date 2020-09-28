@@ -33,8 +33,7 @@
           <span>{{item.monthSalesTip}}</span>
         </template>
 
-        </van-card>
-      <!-- </div> -->
+        </van-card>  
     </div>
   </div>
 </template>
