@@ -2,7 +2,7 @@
   <div>
       <img :src="list.img" alt="">
       {{list.title}}
-  </div>
+      <p>111</p>  </div>
 </template>
 
 <script>
